@@ -9,6 +9,7 @@
   <li>You can download directory from client computer using <b>"downloaddir"</b> command.</li>
   <li>You can take screenshot of client computer using <b>"screenshot"</b> command.</li>
   <li>You can attach file to StartUp of Windows using<b>"attach_startup"</b> command.</li>
+  <li>CLI Argument functionality</li>
 </ul>
 <hr color=red>
 <h3>Some Help ::</h3>
